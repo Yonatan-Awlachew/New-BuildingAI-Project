@@ -23,9 +23,12 @@ Millions of trips are planned daily, making this a common issue for tourists, bu
 - Geo-location data for nearby transport hubs and travel updates.  
 
 **AI methods:**  
-- **Recommendation Systems** will suggest routes and accommodations.  
-- **Natural Language Processing (NLP)** to process user queries like "Find the fastest way from Rijeka to Messina."  
-- **Optimization algorithms** for finding the most efficient travel plans.  
+
+- **Recommendation Systems**: suggest personalized travel options (routes, accommodations, activities) based on user preferences and past behavior. These systems use collaborative filtering to recommend items liked by similar users and content-based filtering to suggest items similar to those the user has shown interest in.
+
+- **Natural Language Processing (NLP)**: enables the app to understand and process user queries in natural language. It uses intent recognition to extract key details (e.g., source, destination) and entity recognition to identify places and dates. The system can then provide tailored travel recommendations and answers to user queries.
+
+- **Optimization algorithms**: calculate the most efficient travel plans, considering factors like cost, time, and user preferences. Techniques like Dijkstra's Algorithm and Genetic Algorithms help find the best routes and itineraries, ensuring that users get the most efficient travel options based on their needs.
 
 ## How is it used?  
 
